@@ -112,7 +112,7 @@ This project deliberately avoids modern trends like microservices, real-time com
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/EduSphere.git
+git clone https://github.com/MuminjonovAsrorbek/EduSphere.git
 cd EduSphere
 ```
 
